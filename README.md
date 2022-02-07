@@ -1,4 +1,5 @@
 # ComplexCalculator
+### Authors: Will Duquette and Elijah Stein
 
 Designed a class named Complex for representing complex numbers and the functions
 add, subtract, multiply, divide, abs for performing complex-number operations, and the
